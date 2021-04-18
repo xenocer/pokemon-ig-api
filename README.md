@@ -1,6 +1,6 @@
-# Getting Started with Pokemon-IG-Clone
+# Getting Started with Pokemon-IG-Clone-api
 
-Pre-Require\
+Pre-Require
 - MongoDB
 
 In the project directory, you can run:
